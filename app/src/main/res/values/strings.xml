@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat On</string>
+    <string name="enter_the_6_digit_verification_code_that_you_received_and_click_verify">Enter the 6-digit verification code that you received</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="todo">TODO</string>
+    <string name="type_your_phone_number">Type your phone number</string>
+    <string name="chaton_app_will_send_an_otp_to_verify_your_phone_number">ChatOn App will send an OTP to verify your phone number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="continue_B">Continue</string>
+</resources>
